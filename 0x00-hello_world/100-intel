@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -s -mash=intel $CFILE
+gcc -S -mash=intel $CFILE
