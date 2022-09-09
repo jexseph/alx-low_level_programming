@@ -2,9 +2,9 @@
 /**
  * main-entry point
  * Betty
- * Return:0 when complete
+ * Return: 0 when complete
  */
-int main(void);
+int main(void)
 {
 printf("with proper grammar,but the outcome is a piece of art,\n");
 return (0);
