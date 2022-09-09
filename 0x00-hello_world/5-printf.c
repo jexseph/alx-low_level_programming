@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main-Entry point
+ * main-entry point
  * Betty
- * Return:0 when function is success
+ * Return:0 when complete
  */
 int main(void);
 {
