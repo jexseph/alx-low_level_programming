@@ -10,8 +10,8 @@ void print_alphabet(void)
 
 	for (lowercase = 'a'; lowercase <= 'z'; lowercase++)
 	{
-		-putchar(lowercase);
+		_putchar(lowercase);
 	}
--putchar('\n');
+_putchar('\n');
 }
 
